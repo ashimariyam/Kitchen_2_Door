@@ -46,3 +46,13 @@ Kitchen 2 Door , is an online homemade food delivery system done using PHP, SQL,
 
 # Screenshots
 1.Homepage
+![Screenshot (154)](https://github.com/ashimariyam/Kitchen_2_Door/assets/128895423/a4f87a97-c34e-4ffe-bce8-6c5d4081f80e)
+![Screenshot (155)](https://github.com/ashimariyam/Kitchen_2_Door/assets/128895423/a78cd2b5-672f-4709-b448-07559b1c71f1)
+![Screenshot (156)](https://github.com/ashimariyam/Kitchen_2_Door/assets/128895423/2ad8d6ac-4fe9-4683-b184-54636d6b7909)
+
+2.Login Page
+![Screenshot (157)](https://github.com/ashimariyam/Kitchen_2_Door/assets/128895423/e3b39777-42dd-4d87-9344-86f2d3a6c688)
+
+3.Customer account
+![Screenshot (158)](https://github.com/ashimariyam/Kitchen_2_Door/assets/128895423/57c9e529-4731-4e9a-b871-c401c08c2539)
+
