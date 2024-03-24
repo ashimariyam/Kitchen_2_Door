@@ -1,9 +1,9 @@
-Tink-Her-Hack
-KITCHEN 2 DOOR
-#Introduction
+# Tink-Her-Hack
+# KITCHEN 2 DOOR
+#  Introduction
 Homemade food delivery services offer a convenient solution for individuals seeking delicious, freshly prepared meals without the hassle of cooking themselves. These services connect home cooks with customers through online platforms, allowing customers to browse menus, place orders, and have homemade meals delivered directly to their doorstep. With a focus on quality ingredients, authentic flavors, and personalized touches, homemade food delivery caters to a wide range of tastes and dietary preferences. Whether you're craving comforting classics, international cuisines, or healthy options, homemade food delivery brings the warmth and satisfaction of homemade meals right to your table, making dining at home a delightful and hassle-free experience.
 
-#Structural Overview
+#  Structural Overview
 1.Platform Development: Designing and developing a user-friendly online platform (website or mobile app) where home cooks can register, create profiles, upload menus, and manage orders, and where customers can browse menus, place orders, and track deliveries.
 
 2.User Registration and Authentication: Implementing a system for user registration, login, and authentication to ensure security and personalized experiences for both home cooks and customers.
@@ -20,7 +20,7 @@ Homemade food delivery services offer a convenient solution for individuals seek
 
 8.Marketing and Promotion: Developing strategies to attract and retain both home cooks and customers, including digital marketing campaigns, promotions, partnerships, and community engagement initiatives.
 
-#Libraries Used
+# Libraries Used
 Kitchen 2 Door , is an online homemade food delivery system done using PHP, SQL, HTML, JavaScript & CSS.
 
 # How it works?
